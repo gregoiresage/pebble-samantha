@@ -1,0 +1,14 @@
+{
+  "uuid": "a79cf9e5-5099-4cb4-8453-e3427382c4d2",
+  "shortName": "Samantha",
+  "longName": "Samantha",
+  "companyName": "Sean Kelly",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "resources": {
+    "media": []
+  }
+}
